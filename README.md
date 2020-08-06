@@ -17,3 +17,6 @@ Hạn chế:
 - Database phần hình ảnh cần phải là 1 list để lưu trữ hình ảnh nhiều nhất có thể.  
 - Giao diện cần chỉnh lại để bớt trống trải hơn.  Ví dụ như ở trang chủ tại mỗi sản phẩm cần thêm 1 thuộc tính margin-left:1px chẳng hạn.  
 - Database ở phần khách hàng chỗ ID cần phải sửa lại để 1 người có thể đặt mua hàng nhiều lần với cùng 1 lần vào trang.  
+
+Link source code:  
+https://drive.google.com/file/d/1qAXuY_hjmBaHRTxbofebUa5N8fC-liSr/view?usp=sharing

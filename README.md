@@ -11,6 +11,9 @@ https://developers.momo.vn/#/docs/qr_payment
 https://developers.momo.vn/#/docs/aio/?id=ph%c6%b0%c6%a1ng-th%e1%bb%a9c-thanh-to%c3%a1n-1  
 https://business.momo.vn/login 
 - Bạn cần đăng ký 1 tài khoản doanh nghiệp fake momo để test chức năng thanh toán với momo.  
+- Cần thêm chức năng log, file log ghi lại các tiến trình của user khi đăng nhập và các sự kiện của hệ thống.  
+- Phân quyền dùng filter, phân level từng thành viên vào các controll.  
+- Chuyển từ session -> cookie.  
 
 
 Hạn chế:  
@@ -19,4 +22,6 @@ Hạn chế:
 - Database ở phần khách hàng chỗ ID cần phải sửa lại để 1 người có thể đặt mua hàng nhiều lần với cùng 1 lần vào trang.  
 
 Link source code:  
-https://drive.google.com/file/d/1qAXuY_hjmBaHRTxbofebUa5N8fC-liSr/view?usp=sharing
+https://drive.google.com/file/d/1qAXuY_hjmBaHRTxbofebUa5N8fC-liSr/view?usp=sharing  
+
+
